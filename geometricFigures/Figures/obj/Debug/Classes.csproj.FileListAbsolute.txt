@@ -1,0 +1,6 @@
+C:\Users\alexp\source\repos\geometricFigures\Figures\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\alexp\source\repos\geometricFigures\Figures\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\alexp\source\repos\geometricFigures\Figures\bin\Debug\Figures.dll
+C:\Users\alexp\source\repos\geometricFigures\Figures\bin\Debug\Figures.pdb
+C:\Users\alexp\source\repos\geometricFigures\Figures\obj\Debug\Figures.dll
+C:\Users\alexp\source\repos\geometricFigures\Figures\obj\Debug\Figures.pdb

@@ -1,0 +1,10 @@
+C:\Users\alexp\source\repos\geometricFigures\geometricFigures\obj\Debug\geometricFigures.csprojAssemblyReference.cache
+C:\Users\alexp\source\repos\geometricFigures\geometricFigures\obj\Debug\geometricFigures.csproj.CoreCompileInputs.cache
+C:\Users\alexp\source\repos\geometricFigures\geometricFigures\bin\Debug\geometricFigures.exe.config
+C:\Users\alexp\source\repos\geometricFigures\geometricFigures\bin\Debug\geometricFigures.exe
+C:\Users\alexp\source\repos\geometricFigures\geometricFigures\bin\Debug\geometricFigures.pdb
+C:\Users\alexp\source\repos\geometricFigures\geometricFigures\bin\Debug\Figures.dll
+C:\Users\alexp\source\repos\geometricFigures\geometricFigures\bin\Debug\Figures.pdb
+C:\Users\alexp\source\repos\geometricFigures\geometricFigures\obj\Debug\geometricFigures.csproj.CopyComplete
+C:\Users\alexp\source\repos\geometricFigures\geometricFigures\obj\Debug\geometricFigures.exe
+C:\Users\alexp\source\repos\geometricFigures\geometricFigures\obj\Debug\geometricFigures.pdb
